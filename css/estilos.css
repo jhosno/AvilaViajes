@@ -1,0 +1,77 @@
+.navbar-default {
+    background: transparent;
+    background-image: url("../img/img1/PavilaViajes2-01.jpg");
+    border-color: transparent;
+    box-shadow: none;
+    height: 655px;
+    background-repeat: no-repeat;
+}
+
+.divParent {
+    position: relative;
+    top: 0%;
+    left: 0%;
+}
+
+.divParentImg {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.divParentImg1 {
+    position: absolute;
+    top: 35%;
+    left: 3%;
+    width: 125px;
+    height: 70px;
+}
+
+.divParentImg2 {
+    position: absolute;
+    top: 52%;
+    left: 3%;
+    width: 125px;
+    height: 70px;
+}
+
+.divParentImg3 {
+    position: absolute;
+    top: 69%;
+    left: 3%;
+    width: 125px;
+    height: 70px;
+}
+
+.divParentImg4 {
+    position: absolute;
+    top: 86%;
+    left: 3%;
+    width: 65px;
+    height: 70px;
+}
+
+.divParentImg5 {
+    position: absolute;
+    top: 37%;
+    right: 3%;
+    width: 100px;
+    height: 100px;
+}
+
+.divParentImg6 {
+    position: absolute;
+    top: 55%;
+    right: 3%;
+    width: 100px;
+    height: 100px;
+}
+
+.divParentImg7 {
+    position: absolute;
+    top: 73%;
+    right: 3%;
+    width: 100px;
+    height: 100px;
+}
