@@ -91,10 +91,17 @@ position: absolute;
     max-height: 80px;
 
 }
+.button-navbar{
+    width: 420px;
+     box-shadow: inset 1px 1px 14px #212529;
+    border-radius: 5px;
+ 
+
+}
 .nav-link{
     color:#fff;
     text-decoration: none;
-    box-shadow: inset 3px 2px 6px #212529;
+    
     background: transparent;
     font-size: 32px;
     max-width: 424px;
@@ -102,7 +109,7 @@ position: absolute;
     opacity: 1;
     display:cover;
     margin: auto;
-    border-radius: 5px;
+    
     padding-left: auto;
     padding-right: auto;
    
