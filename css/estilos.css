@@ -1,7 +1,8 @@
 .div-navbar {
     background: transparent;
     background-image: url("../img/img1/PavilaViajes2-01.jpg");
-    border-color: transparent;
+    
+        border-color: transparent;
     box-shadow: none;
     height: 655px;
     background-repeat: no-repeat;
@@ -88,7 +89,9 @@ position: absolute;
 }
 .navbar{
     background: linear-gradient(#f8f9fa66, rgba(0, 0, 0, 0.19));
-    max-height: 80px;
+    max-height: auto;
+    flex-wrap: wrap;
+    flex-direction: column;
 
 }
 .button-navbar{
@@ -108,10 +111,7 @@ position: absolute;
     text-shadow: 2px 2px #000;
     opacity: 1;
     display:cover;
-    margin: auto;
-    
-    padding-left: auto;
-    padding-right: auto;
+
    
 
 }
